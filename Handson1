@@ -1,1 +1,29 @@
-Welcome to Terraform
+                                                                  Welcome to Terraform
+Infrastrcture Deployment
+aws --> cloud formation
+azure --> arm templates
+
+*.For third party famous toll famous (latest)
+Hashicorp Terraform (it will work any cloud)
+
+Configure management tools:
+chef
+puppet
+ansible
+rundesk
+salt
+
+Advantages:
+terraform code is simple to understand
+can be used with multiple vendoes (aws,azure,ibm,gcs).but code will change to cloud to cloud
+config can be split into multiple files
+can form dry-run easily .(it will check code easily)
+Importing of manual created resources.
+Reusable code
+DisAdvantages:
+Its 3rd party tool,new services might not available
+bugs (latest version having many bugs)
+lack of support
+
+
+
